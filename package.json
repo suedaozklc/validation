@@ -1,11 +1,14 @@
 {
-  "name": "hllhc-testing-project",
+  "name": "softwarevalidationproject",
   "version": "1.0.0",
-  "description": "Create New Account Page Testing Project",
+  "description": "Software validation project with account creation tests",
   "main": "validation.js",
   "scripts": {
     "test": "jest"
   },
+  "keywords": ["validation", "testing"],
+  "author": "",
+  "license": "ISC",
   "devDependencies": {
     "jest": "^29.0.0"
   }
