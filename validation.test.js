@@ -1,3 +1,4 @@
+// Test suite - Create New Account Validation
 const { createAccount, isValidEmail, isValidPassword } = require('./validation');
 
 describe("Create Account Tests", () => {
