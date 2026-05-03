@@ -1,0 +1,12 @@
+{
+  "name": "hllhc-testing-project",
+  "version": "1.0.0",
+  "description": "Create New Account Page Testing Project",
+  "main": "validation.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
